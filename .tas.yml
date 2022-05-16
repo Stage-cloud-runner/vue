@@ -18,3 +18,5 @@ postRun:
 version: 1.2
 parallelism : 1
 configFile : "./test/weex/jasmine.js"
+
+
